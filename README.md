@@ -1,7 +1,5 @@
 API para calculo de frete.
 
-Essa API consome a API https://github.com/JoaoEnrique/spring-boot-pokemon na branch `feature-frete` 
-
 #
 ## `POST /api/v1/frete`
 
